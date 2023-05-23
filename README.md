@@ -12,7 +12,7 @@ L'Objectif de ce projet est d'analyser les facteurs de risques lors de la souscr
 <h2>Code:</h2>
 
 <p align="center">
-Imoportation des Packages : <br/>
+Importation des Packages : <br/>
 <img src="https://i.imgur.com/qCmgRJf.png" height="80%" width="80%" alt="Imoportation des Packages"/>
 <br />
 <br />
